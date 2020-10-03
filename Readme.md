@@ -3,7 +3,8 @@ This program allows users to input all their monthly expenses and recieve a tabl
 
 # Execution
 >python -u path/to/file/budget.py
-[example of running code](execution.png)
+
+![example of running code](execution.png)
 
 # Useful Sites
 
