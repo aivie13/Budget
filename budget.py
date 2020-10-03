@@ -4,12 +4,12 @@
 # recieve user inputs
 def inputExpenses():
     print('Please enter the following:')
-    income = input("\tYour Monthly Income: ")
-    budgetExpenses = input('\tYour Budgeted Expenses: ')
-    actualExpenses = input('\tYour Actual Living Expenses: ')
-    actualTaxes = input('\tYour Actual Taxes Paid: ')
-    actualTithing = input('\tYour Actual Tithe offerings: ')
-    other = input('\tAny Other Expenses: ')
+    income = input("\tYour Monthly Income: $")
+    budgetExpenses = input('\tYour Budgeted Expenses: $')
+    actualExpenses = input('\tYour Actual Living Expenses: $')
+    actualTaxes = input('\tYour Actual Taxes Paid: $')
+    actualTithing = input('\tYour Actual Tithe offerings: $')
+    other = input('\tAny Other Expenses: $')
     return income, budgetExpenses, actualExpenses, actualTaxes, actualTithing, other
 
 # calculate taxes based on user income
