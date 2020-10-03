@@ -1,4 +1,5 @@
-
+# Aaron Ivie
+# Program to recieve user input and output a monthly budget
 
 # recieve user inputs
 def inputExpenses():
