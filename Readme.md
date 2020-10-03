@@ -2,7 +2,8 @@
 This program allows users to input all their monthly expenses and recieve a table of their monthly budget
 
 # Execution
-Open budget.py in VSCode and press the run button
+>python -u path/to/file/budget.py
+[example of running code](execution.png)
 
 # Useful Sites
 
